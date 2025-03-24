@@ -10,5 +10,11 @@ pip install einops ema-pytorch fsspec fvcore huggingface-hub matplotlib numpy op
 Please download the pretrained weights from [this google drive](https://drive.google.com/drive/folders/1xSm7Pm1aIAHKqI8h_rp3UYucNM1TcGEh?usp=sharing). Please put the cls_model.pth under "pretrained" folder.
 
 ```python
-python3 test_sirs.py --icnn_path <path to the main checkpoint> --resume
+python3 test_sirs.py --icnn_path path/to/result.pth --resume
+```
+
+# Results
+The results are stored in 
+```
+./results/real20
 ```
