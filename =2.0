@@ -1,0 +1,10 @@
+Collecting torch
+  Using cached torch-2.4.1-cp38-cp38-manylinux1_x86_64.whl (797.1 MB)
+Collecting torchvision
+  Using cached torchvision-0.19.1-cp38-cp38-manylinux1_x86_64.whl (7.0 MB)
+Collecting filelock
+  Downloading filelock-3.16.1-py3-none-any.whl (16 kB)
+Collecting networkx
+  Using cached networkx-3.1-py3-none-any.whl (2.1 MB)
+Collecting triton==3.0.0; platform_system == "Linux" and platform_machine == "x86_64" and python_version < "3.13"
+  Downloading triton-3.0.0-1-cp38-cp38-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (209.4 MB)
