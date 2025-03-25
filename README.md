@@ -12,9 +12,14 @@ Please download the pretrained weights from [this google drive](https://drive.go
 ```python
 python3 test_sirs.py --icnn_path path/to/result.pth --resume
 ```
+Then run 
+```python
+python3 convert.py
+```
+
 
 # Results
-The results are stored in 
+The results are stored in this directory
 ```
-./results/real20
+RDNet/output
 ```
